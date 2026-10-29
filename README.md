@@ -102,47 +102,47 @@ Gosto de pegar processos manuais e transformá-los em software que gera resultad
 
 ## 🚀 Projetos em destaque
 
+Sistemas que desenhei e construí de ponta a ponta como projetos independentes, sob a marca **Whayls Enterprise**. Todos estão no ar.
+
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
+<a href="https://norsel.com.br/"><img src="https://www.chicosants.dev/assets/projetos/norsel_page.webp" alt="Norsel" width="100%" /></a>
 
-### 🌐 [chicosants.dev](https://www.chicosants.dev/)
-Meu portfólio interativo: trajetória, stack e projetos em um só lugar.
+**[Norsel](https://norsel.com.br/)**<br/>
+<sub>☀️ Energia solar</sub>
 
-<a href="https://www.chicosants.dev/"><img src="https://img.shields.io/badge/Acessar%20site-0a0a10?style=flat-square&logo=googlechrome&logoColor=818CF8" /></a>
+Site novo, sistema próprio da solicitação do cliente à entrega e robôs de WhatsApp que respondem clientes e enviam documentos sozinhos.
 
-</td>
-<td width="50%" valign="top">
-
-### 💬 [ZapFilter CRM](https://github.com/FranciscoJSSantos/extensao-crm-whatsapp)
-Extensão para Chrome/Edge que transforma o WhatsApp Web em um CRM com quadro Kanban e filtros rápidos.
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Manifest%20V3-4285F4?style=flat-square&logo=googlechrome&logoColor=white" />
+<a href="https://norsel.com.br/"><img src="https://img.shields.io/badge/norsel.com.br-0a0a10?style=flat-square&logo=googlechrome&logoColor=818CF8" /></a>
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
+<a href="https://www.1local.com.br/"><img src="https://www.chicosants.dev/assets/projetos/1local_page.webp" alt="1Local" width="100%" /></a>
 
-### 📝 [norsel-api](https://github.com/FranciscoJSSantos/norsel-api)
-API de blog com posts, tags N:N, comentários com moderação, logs e contador de visualizações.
+**[1Local](https://www.1local.com.br/)**<br/>
+<sub>📍 Produto próprio para negócios locais</sub>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+Página do negócio, agendamento integrado ao WhatsApp e Gmail, eventos, cardápio e catálogo, tudo numa conta só.
+
+<a href="https://www.1local.com.br/"><img src="https://img.shields.io/badge/1local.com.br-0a0a10?style=flat-square&logo=googlechrome&logoColor=818CF8" /></a>
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
+<a href="https://www.serenita.com.br/"><img src="https://www.chicosants.dev/assets/projetos/serenita_page.webp" alt="Serenità" width="100%" /></a>
 
-### 🖥️ [norsel-vision](https://github.com/FranciscoJSSantos/norsel-vision)
-Frontend da plataforma Norsel.
+**[Serenità](https://www.serenita.com.br/)**<br/>
+<sub>🐾 Clínica veterinária</sub>
 
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+Sistema sob medida com exames, faturamento, estoque, internações, receitas e chat interno da equipe.
+
+<a href="https://www.serenita.com.br/"><img src="https://img.shields.io/badge/serenita.com.br-0a0a10?style=flat-square&logo=googlechrome&logoColor=818CF8" /></a>
 
 </td>
 </tr>
 </table>
+
+🧩 Também no GitHub: **[ZapFilter CRM](https://github.com/FranciscoJSSantos/extensao-crm-whatsapp)**, uma extensão para Chrome/Edge que transforma o WhatsApp Web em CRM com quadro Kanban.
 
 ---
 
@@ -159,8 +159,8 @@ Frontend da plataforma Norsel.
 ## 🎓 Formação & Idiomas
 
 - 🎓 **Bacharelado em Ciência da Computação** — Universidade Tiradentes (UNIT) · 2019 – 2023
-- 🇧🇷 Português — nativo
-- 🇺🇸 Inglês — intermediário (B1–B2), leitura técnica e comunicação no trabalho
+- <img src="https://flagcdn.com/24x18/br.png" width="20" alt="Brasil" /> Português — nativo
+- <img src="https://flagcdn.com/24x18/us.png" width="20" alt="EUA" /> Inglês — intermediário (B1–B2), leitura técnica e comunicação no trabalho
 
 ---
 

@@ -102,12 +102,47 @@ Gosto de pegar processos manuais e transformá-los em software que gera resultad
 
 ## 🚀 Projetos em destaque
 
-| Projeto | Descrição | Stack |
-| --- | --- | --- |
-| [**chicosants.dev**](https://www.chicosants.dev/) | Meu portfólio interativo | Web |
-| [**ZapFilter CRM**](https://github.com/FranciscoJSSantos/extensao-crm-whatsapp) | Extensão (Manifest V3) que transforma o WhatsApp Web em CRM com quadro Kanban e filtros rápidos | JavaScript |
-| [**norsel-api**](https://github.com/FranciscoJSSantos/norsel-api) | API de blog com posts, tags N:N, comentários com moderação e logs | Python · FastAPI |
-| [**norsel-vision**](https://github.com/FranciscoJSSantos/norsel-vision) | Frontend da plataforma Norsel | TypeScript · React |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 [chicosants.dev](https://www.chicosants.dev/)
+Meu portfólio interativo: trajetória, stack e projetos em um só lugar.
+
+<a href="https://www.chicosants.dev/"><img src="https://img.shields.io/badge/Acessar%20site-0a0a10?style=flat-square&logo=googlechrome&logoColor=818CF8" /></a>
+
+</td>
+<td width="50%" valign="top">
+
+### 💬 [ZapFilter CRM](https://github.com/FranciscoJSSantos/extensao-crm-whatsapp)
+Extensão para Chrome/Edge que transforma o WhatsApp Web em um CRM com quadro Kanban e filtros rápidos.
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Manifest%20V3-4285F4?style=flat-square&logo=googlechrome&logoColor=white" />
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📝 [norsel-api](https://github.com/FranciscoJSSantos/norsel-api)
+API de blog com posts, tags N:N, comentários com moderação, logs e contador de visualizações.
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+
+</td>
+<td width="50%" valign="top">
+
+### 🖥️ [norsel-vision](https://github.com/FranciscoJSSantos/norsel-vision)
+Frontend da plataforma Norsel.
+
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -115,8 +150,7 @@ Gosto de pegar processos manuais e transformá-los em software que gera resultad
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=FranciscoJSSantos&show_icons=true&hide_border=true&bg_color=0a0a10&title_color=818CF8&icon_color=818CF8&text_color=c9d1d9&locale=pt-br" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoJSSantos&layout=compact&hide_border=true&bg_color=0a0a10&title_color=818CF8&text_color=c9d1d9&locale=pt-br" alt="Top linguagens" />
+<img src="https://streak-stats.demolab.com?user=FranciscoJSSantos&hide_border=true&background=0a0a10&ring=818CF8&fire=818CF8&currStreakLabel=818CF8&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e&stroke=30363d&locale=pt_BR" alt="GitHub streak" />
 
 </div>
 

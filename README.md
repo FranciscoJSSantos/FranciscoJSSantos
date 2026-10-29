@@ -1,83 +1,139 @@
-# Olá, eu sou Francisco (Chico) Santana! 👋
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a10,100:4f46e5&height=180&section=header&text=Francisco%20Santana%20(Chico)&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer&descSize=16&descAlignY=58" width="100%" alt="Francisco Santana — Software Engineer" />
+
+<a href="https://www.chicosants.dev/">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=818CF8&center=true&vCenter=true&width=620&lines=5%2B+anos+construindo+apps+web%2C+APIs+e+automa%C3%A7%C3%B5es;TypeScript+%C2%B7+Angular+%C2%B7+Python+%C2%B7+FastAPI+%C2%B7+Node.js;Cloud+%C2%B7+Dados+%C2%B7+Observabilidade+%C2%B7+IA+%26+LLMs" alt="Typing SVG" />
+</a>
+
+<br/>
+
+[![Portfólio](https://img.shields.io/badge/chicosants.dev-0a0a10?style=for-the-badge&logo=googlechrome&logoColor=818CF8)](https://www.chicosants.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-santana-a1a400367/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:francisco.jsantana3@gmail.com)
 
-## 🚀 Sobre Mim
-Sou desenvolvedor movido pela curiosidade e pelo desejo de transformar ideias em soluções que facilitem a vida das pessoas. Gosto de aprender, experimentar e explorar novas tecnologias que agreguem valor real.
-
-Nos últimos anos, atuei principalmente como **Desenvolvedor de Software**. Já participei de projetos escaláveis que alcançaram mais de 100 milhões de usuários, sempre com foco em entregar valor real e impacto positivo. Além da parte técnica, trago uma visão estratégica, liderando iniciativas voltadas à eficiência, inovação e transformação digital.
-
-- 🔭 Atualmente trabalhando como **Software Engineer @ Suzano**
-- 💡 Especialista em **JavaScript** e focado em soluções de **Transformação Digital**
-- 🌱 Estudando e aplicando **IA, Python e Cloud Computing**
-
----
-
-## 🛠️ Tecnologias e Ferramentas
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-  
-  <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="Next.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
-  
-  <img align="center" alt="NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt=".NET" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
-  
-  <img align="center" alt="Azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
-  <img align="center" alt="GCP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg">
-  <img align="center" alt="AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
-  <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-  
-  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
 </div>
 
 ---
 
-## 💼 Experiência Profissional
+## 👨‍💻 Sobre mim
 
-### **Analista de Suprimentos (Foco em Tech)** @ Suzano
-_Fev 2025 - Presente_
-- Liderança de projetos de transformação digital e entrega de soluções tecnológicas alinhadas a objetivos estratégicos.
-- Implementação de boas práticas de governança e segurança da informação.
-- Promoção da cultura de inovação e agilidade (Scrum, Kanban).
-- Uso de ferramentas como **Azure DevOps, Power BI, Azure e Google Cloud**.
+Software Engineer / Full Stack Developer com **5+ anos** de experiência em aplicações web, APIs e automação — principalmente com **TypeScript, Angular, Python, FastAPI e Node.js**, rodando em **AWS, Google Cloud e Azure**.
 
-### **Analista de Desenvolvimento** @ Assigna
-_Ago 2024 - Jan 2025_
-- Desenvolvimento de ferramentas para automação de serviços.
-- Criação de aplicativos e APIs utilizando **Python, PySide6, BigQuery e IA**.
-- Desenvolvimento de dashboards em BI para eficiência do time.
+Gosto de pegar processos manuais e transformá-los em software que gera resultado mensurável:
 
-### **Desenvolvedor** @ Capgemini
-_Ago 2022 - Jul 2024_
-- Desenvolvimento web para a área financeira com **Javascript**.
-- Utilização de SDUI no Frontend integrado com BFF para escalabilidade.
-- Atuação em SRE, monitoramento (Dynatrace) e análise de SLOs.
-- Criação de dashboards dinâmicos de saúde e performance de serviços.
-
-### **Web Developer** @ Info W Software
-_Ago 2021 - Jul 2022_
-- Migração de software de engenharia civil para web com **ASP.NET CORE**.
-- Modelagem de interfaces UI/UX e criação de web services.
-- Implementação de pipelines de CI/CD.
+- ⚡ Automações e pipelines de dados que geraram ganho equivalente a **+2 FTEs** na Suzano
+- 🤝 Suporte técnico-analítico em negociação estratégica: contrato de 3 anos com **redução de 20%** no valor
+- 🏦 Frontend em larga escala para o **Bradesco** com **Server-Driven UI + BFF**, acessibilidade e SRE
+- 🤖 Hoje explorando **IA & LLMs** aplicados a produto e automação
 
 ---
 
-## 📚 Educação
-
-- **Bacharelado em Ciência da Computação** - Universidade Tiradentes (Unit) _(2019 - 2023)_
-
----
-
-## 📫 Contato
+## 🛠️ Stack
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/francisco-santana-a1a400367/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
+
+**Linguagens**<br/>
+<img src="https://skillicons.dev/icons?i=ts,js,python,cs&theme=dark" />
+
+**Frontend**<br/>
+<img src="https://skillicons.dev/icons?i=angular,react,nextjs,tailwind&theme=dark" />
+
+**Backend**<br/>
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,dotnet&theme=dark" />
+
+**Cloud, Dados & DevOps**<br/>
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure,postgres,docker,githubactions&theme=dark" />
+
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
+![Dynatrace](https://img.shields.io/badge/Dynatrace-1496FF?style=flat-square&logo=dynatrace&logoColor=white)
+![SRE / SLO](https://img.shields.io/badge/SRE%20%2F%20SLO-111827?style=flat-square)
+![BFF · SDUI](https://img.shields.io/badge/BFF%20%C2%B7%20SDUI-111827?style=flat-square)
+
+</div>
+
+---
+
+## 💼 Experiência
+
+<details open>
+<summary><b>Suzano</b> — Analista de Suprimentos · Tecnologia & Transformação Digital <i>(Fev 2025 – Atual · Remoto)</i></summary>
+
+- Soluções internas de **automação de processos e análise de dados** → ganho equivalente a **+2 FTEs**, levando a gerência de uma abordagem manual para uma abordagem **tech e analítica**
+- Pipelines e integrações com **BigQuery** alimentando soluções de análise e tomada de decisão
+- Apps e automações com **Python, FastAPI, Angular, React, Next.js e Google Cloud**
+- Dashboards em **Power BI + Python** com os indicadores da área
+- Liderança técnica de iniciativas de transformação digital e participação na definição de arquitetura
+
+</details>
+
+<details>
+<summary><b>Assigna | Suzano</b> — Analista de Desenvolvimento <i>(Ago 2024 – Jan 2025 · Remoto)</i></summary>
+
+- Ferramentas de automação de serviços corporativos, reduzindo esforço manual
+- APIs e aplicações com **Python, PySide6 e BigQuery**
+- Dashboards de BI para monitorar atividades e performance das ferramentas
+
+</details>
+
+<details>
+<summary><b>Capgemini</b> — Software Engineer · Frontend & SRE <i>(Ago 2022 – Ago 2024 · Cliente: Bradesco)</i></summary>
+
+- Aplicações web para o setor financeiro com **Angular, TypeScript e Node.js**
+- Arquitetura **Server-Driven UI (SDUI)** integrada a **Backend for Frontend (BFF)**
+- Componentes reutilizáveis e padrões de acessibilidade (**A11y**)
+- **SRE e observabilidade**: dashboards de saúde, backtrace de monitoramento e análises de **SLO** com Dynatrace
+- Palestras internas sobre observabilidade e Dynatrace em produção
+
+</details>
+
+<details>
+<summary><b>Info W Software</b> — Web Developer <i>(Jul 2021 – Jul 2022)</i></summary>
+
+- Migração de software de engenharia civil para a web com **ASP.NET Core 5.0**
+- Melhorias de UI/UX e web services para apps mobile e integradores
+- Pipeline de CI/CD para a esteira de produção
+
+</details>
+
+---
+
+## 🚀 Projetos em destaque
+
+| Projeto | Descrição | Stack |
+| --- | --- | --- |
+| [**chicosants.dev**](https://www.chicosants.dev/) | Meu portfólio interativo | Web |
+| [**ZapFilter CRM**](https://github.com/FranciscoJSSantos/extensao-crm-whatsapp) | Extensão (Manifest V3) que transforma o WhatsApp Web em CRM com quadro Kanban e filtros rápidos | JavaScript |
+| [**norsel-api**](https://github.com/FranciscoJSSantos/norsel-api) | API de blog com posts, tags N:N, comentários com moderação e logs | Python · FastAPI |
+| [**norsel-vision**](https://github.com/FranciscoJSSantos/norsel-vision) | Frontend da plataforma Norsel | TypeScript · React |
+
+---
+
+## 📊 GitHub
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=FranciscoJSSantos&show_icons=true&hide_border=true&bg_color=0a0a10&title_color=818CF8&icon_color=818CF8&text_color=c9d1d9&locale=pt-br" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoJSSantos&layout=compact&hide_border=true&bg_color=0a0a10&title_color=818CF8&text_color=c9d1d9&locale=pt-br" alt="Top linguagens" />
+
+</div>
+
+---
+
+## 🎓 Formação & Idiomas
+
+- 🎓 **Bacharelado em Ciência da Computação** — Universidade Tiradentes (UNIT) · 2019 – 2023
+- 🇧🇷 Português — nativo
+- 🇺🇸 Inglês — intermediário (B1–B2), leitura técnica e comunicação no trabalho
+
+---
+
+<div align="center">
+
+📫 Bora conversar? **[francisco.jsantana3@gmail.com](mailto:francisco.jsantana3@gmail.com)** · **[chicosants.dev](https://www.chicosants.dev/)**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,100:0a0a10&height=100&section=footer" width="100%" />
+
 </div>
